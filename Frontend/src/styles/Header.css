@@ -1,0 +1,25 @@
+/* Header.css */
+.navbar-custom {
+    background-color: yellow; /* Background color for the header */
+  }
+  
+  .navbar-brand-custom {
+    color: white; /* White text for the brand */
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  .nav-link-custom {
+    color: rgb(170, 11, 11) !important; /* White text for nav links */
+    background-color: blue; /* Blue background for nav links */
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-right: 10px;
+    text-decoration: none;
+  }
+  
+  .nav-link-custom:hover {
+    background-color: darkblue; /* Darker blue on hover */
+    color: white !important;
+  }
+  
