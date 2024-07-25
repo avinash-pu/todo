@@ -1,0 +1,42 @@
+.frameChild {
+  position: absolute;
+  width: calc(100% - 5px);
+  top: 0;
+  right: 4.6px;
+  left: 0.4px;
+  background-color: var(--border-default-default);
+  height: 58.2px;
+}
+.div {
+  position: absolute;
+  top: 9px;
+  left: 1px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 241px;
+  height: 51px;
+  z-index: 1;
+}
+.rectangleParent {
+  height: 60px;
+  flex: 1;
+  position: relative;
+}
+.frameWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--grays-black);
+  font-family: var(--font-poppins);
+}
+@media screen and (max-width: 450px) {
+  .div {
+    font-size: var(--font-size-lgi);
+  }
+}

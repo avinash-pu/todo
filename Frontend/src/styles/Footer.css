@@ -1,9 +1,12 @@
+
+
 .MDBFooter {
-    background-color: #f8f9fa;
-    width: 100%;
-  }
+  background-color: rgb(225,225,0);
+  width: 100%;
+  height: 50%;
   
-  .MDBFooter .p-3 {
-    background-color: rgba(0, 0, 0, 0.2);
-  }
-  
+}
+
+.MDBFooter .p-3 {
+  background-color: rgba(0, 0, 0, 0.2);
+}

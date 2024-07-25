@@ -1,0 +1,3750 @@
+.landingPageChild {
+  width: 202.9px;
+  height: 58.2px;
+  position: relative;
+  background-color: var(--border-default-default);
+  display: none;
+}
+.landingPageChild1,
+.landingPageChild2,
+.landingPageChild3,
+.landingPageInner,
+.landingPageItem,
+.rectangleDiv {
+  width: 237px;
+  height: 58.2px;
+  position: relative;
+  background-color: var(--border-default-default);
+  display: none;
+}
+.landingPageChild1,
+.landingPageChild2,
+.landingPageChild3,
+.landingPageInner,
+.rectangleDiv {
+  width: 203.9px;
+}
+.landingPageChild1,
+.landingPageChild2,
+.landingPageChild3,
+.rectangleDiv {
+  width: 144.6px;
+}
+.landingPageChild1,
+.landingPageChild2,
+.landingPageChild3 {
+  width: 221.9px;
+}
+.landingPageChild2,
+.landingPageChild3 {
+  width: 259.1px;
+}
+.landingPageChild3 {
+  width: 230px;
+}
+.avinashKumar,
+.developer,
+.div,
+.div1,
+.div2,
+.hyderabad,
+.newJoin {
+  position: relative;
+  display: none;
+  align-items: center;
+  flex-shrink: 0;
+}
+.div {
+  width: 70px;
+  height: 57px;
+  white-space: pre-wrap;
+}
+.avinashKumar,
+.developer,
+.div1,
+.div2,
+.hyderabad,
+.newJoin {
+  width: 200px;
+  height: 59px;
+}
+.developer,
+.div1,
+.div2,
+.hyderabad,
+.newJoin {
+  width: 267px;
+  height: 55px;
+  white-space: pre-wrap;
+}
+.developer,
+.div1,
+.div2,
+.newJoin {
+  width: 235px;
+  height: 51px;
+}
+.developer,
+.div2,
+.newJoin {
+  width: 241px;
+}
+.developer,
+.newJoin {
+  width: 205px;
+  height: 59px;
+}
+.newJoin {
+  width: 157px;
+  height: 52px;
+}
+.landingPageChild4,
+.landingPageChild5,
+.landingPageChild6 {
+  width: 202.9px;
+  height: 58.2px;
+  position: relative;
+  background-color: var(--border-default-default);
+  display: none;
+}
+.landingPageChild5,
+.landingPageChild6 {
+  width: 237px;
+}
+.landingPageChild6 {
+  width: 203.9px;
+}
+.landingPageChild7 {
+  width: 144.6px;
+  position: relative;
+  display: none;
+}
+.landingPageChild7,
+.landingPageChild8,
+.landingPageChild9 {
+  height: 58.2px;
+  background-color: var(--border-default-default);
+}
+.landingPageChild8 {
+  width: 221.9px;
+  position: relative;
+  display: none;
+}
+.landingPageChild9 {
+  width: 259.1px;
+}
+.div3,
+.landingPageChild10,
+.landingPageChild9 {
+  position: relative;
+  display: none;
+}
+.landingPageChild10 {
+  width: 230px;
+  height: 58.2px;
+  background-color: var(--border-default-default);
+}
+.div3 {
+  width: 70px;
+  height: 57px;
+  white-space: pre-wrap;
+  align-items: center;
+  flex-shrink: 0;
+}
+.avinashKumar1,
+.developer1,
+.div4,
+.div5,
+.hyderabad1,
+.newJoin1 {
+  width: 200px;
+  height: 59px;
+  position: relative;
+  display: none;
+  align-items: center;
+  flex-shrink: 0;
+}
+.developer1,
+.div4,
+.div5,
+.hyderabad1,
+.newJoin1 {
+  width: 267px;
+  height: 55px;
+  white-space: pre-wrap;
+}
+.developer1,
+.div4,
+.div5,
+.newJoin1 {
+  width: 235px;
+  height: 51px;
+}
+.developer1,
+.div5,
+.newJoin1 {
+  width: 241px;
+}
+.developer1,
+.newJoin1 {
+  width: 205px;
+  height: 59px;
+}
+.newJoin1 {
+  width: 157px;
+  height: 52px;
+}
+.landingPageChild11,
+.landingPageChild12,
+.landingPageChild13 {
+  width: 202.9px;
+  height: 58.2px;
+  position: relative;
+  background-color: var(--border-default-default);
+  display: none;
+}
+.landingPageChild12,
+.landingPageChild13 {
+  width: 237px;
+}
+.landingPageChild13 {
+  width: 203.9px;
+}
+.landingPageChild14 {
+  width: 144.6px;
+  position: relative;
+  display: none;
+}
+.landingPageChild14,
+.landingPageChild15,
+.landingPageChild16 {
+  height: 58.2px;
+  background-color: var(--border-default-default);
+}
+.landingPageChild15 {
+  width: 221.9px;
+  position: relative;
+  display: none;
+}
+.landingPageChild16 {
+  width: 259.1px;
+}
+.div6,
+.landingPageChild16,
+.landingPageChild17 {
+  position: relative;
+  display: none;
+}
+.landingPageChild17 {
+  width: 230px;
+  height: 58.2px;
+  background-color: var(--border-default-default);
+}
+.div6 {
+  width: 70px;
+  white-space: pre-wrap;
+  align-items: center;
+}
+.avinashKumar2,
+.developer2,
+.div7,
+.div8,
+.hyderabad2,
+.newJoin2 {
+  width: 200px;
+  position: relative;
+  display: none;
+  align-items: center;
+}
+.developer2,
+.div7,
+.div8,
+.hyderabad2,
+.newJoin2 {
+  width: 267px;
+  white-space: pre-wrap;
+}
+.developer2,
+.div7,
+.div8,
+.newJoin2 {
+  width: 235px;
+}
+.developer2,
+.div8,
+.newJoin2 {
+  width: 241px;
+}
+.developer2,
+.newJoin2 {
+  width: 205px;
+}
+.newJoin2 {
+  width: 157px;
+  height: 52px;
+  flex-shrink: 0;
+}
+.landingPageChild18,
+.landingPageChild19,
+.landingPageChild20 {
+  width: 202.9px;
+  height: 58.2px;
+  position: relative;
+  background-color: var(--border-default-default);
+  display: none;
+}
+.landingPageChild19,
+.landingPageChild20 {
+  width: 237px;
+}
+.landingPageChild20 {
+  width: 203.9px;
+}
+.landingPageChild21 {
+  width: 144.6px;
+  position: relative;
+  display: none;
+}
+.landingPageChild21,
+.landingPageChild22,
+.landingPageChild23 {
+  height: 58.2px;
+  background-color: var(--border-default-default);
+}
+.landingPageChild22 {
+  width: 221.9px;
+  position: relative;
+  display: none;
+}
+.landingPageChild23 {
+  width: 259.1px;
+}
+.div9,
+.landingPageChild23,
+.landingPageChild24 {
+  position: relative;
+  display: none;
+}
+.landingPageChild24 {
+  width: 230px;
+  height: 58.2px;
+  background-color: var(--border-default-default);
+}
+.div9 {
+  width: 70px;
+  white-space: pre-wrap;
+  align-items: center;
+}
+.avinashKumar3,
+.developer3,
+.div10,
+.div11,
+.hyderabad3,
+.newJoin3 {
+  width: 200px;
+  position: relative;
+  display: none;
+  align-items: center;
+}
+.developer3,
+.div10,
+.div11,
+.hyderabad3,
+.newJoin3 {
+  width: 267px;
+  white-space: pre-wrap;
+}
+.developer3,
+.div10,
+.div11,
+.newJoin3 {
+  width: 235px;
+}
+.developer3,
+.div11,
+.newJoin3 {
+  width: 241px;
+}
+.developer3,
+.newJoin3 {
+  width: 205px;
+}
+.newJoin3 {
+  width: 157px;
+  height: 52px;
+  flex-shrink: 0;
+}
+.landingPageChild25,
+.landingPageChild26,
+.landingPageChild27 {
+  width: 202.9px;
+  height: 58.2px;
+  position: relative;
+  background-color: var(--border-default-default);
+  display: none;
+}
+.landingPageChild26,
+.landingPageChild27 {
+  width: 237px;
+}
+.landingPageChild27 {
+  width: 203.9px;
+}
+.landingPageChild28 {
+  width: 144.6px;
+  position: relative;
+  display: none;
+}
+.landingPageChild28,
+.landingPageChild29,
+.landingPageChild30 {
+  height: 58.2px;
+  background-color: var(--border-default-default);
+}
+.landingPageChild29 {
+  width: 221.9px;
+  position: relative;
+  display: none;
+}
+.landingPageChild30 {
+  width: 259.1px;
+}
+.div12,
+.landingPageChild30,
+.landingPageChild31 {
+  position: relative;
+  display: none;
+}
+.landingPageChild31 {
+  width: 230px;
+  height: 58.2px;
+  background-color: var(--border-default-default);
+}
+.div12 {
+  width: 70px;
+  height: 57px;
+  white-space: pre-wrap;
+  align-items: center;
+  flex-shrink: 0;
+}
+.avinashKumar4,
+.developer4,
+.div13,
+.div14,
+.hyderabad4,
+.newJoin4 {
+  width: 200px;
+  height: 59px;
+  position: relative;
+  display: none;
+  align-items: center;
+  flex-shrink: 0;
+}
+.developer4,
+.div13,
+.div14,
+.hyderabad4,
+.newJoin4 {
+  width: 267px;
+  height: 55px;
+  white-space: pre-wrap;
+}
+.developer4,
+.div13,
+.div14,
+.newJoin4 {
+  width: 235px;
+  height: 51px;
+}
+.developer4,
+.div14,
+.newJoin4 {
+  width: 241px;
+}
+.developer4,
+.newJoin4 {
+  width: 205px;
+  height: 59px;
+}
+.newJoin4 {
+  width: 157px;
+  height: 52px;
+}
+.landingPageChild32,
+.landingPageChild33 {
+  width: 202.9px;
+  height: 58.2px;
+  position: relative;
+  background-color: var(--border-default-default);
+  display: none;
+}
+.landingPageChild33 {
+  width: 237px;
+}
+.landingPageChild34,
+.landingPageChild35,
+.landingPageChild36,
+.landingPageChild37,
+.landingPageChild38 {
+  width: 203.9px;
+  height: 58.2px;
+  position: relative;
+  background-color: var(--border-default-default);
+  display: none;
+}
+.landingPageChild35,
+.landingPageChild36,
+.landingPageChild37,
+.landingPageChild38 {
+  width: 144.6px;
+}
+.landingPageChild36,
+.landingPageChild37,
+.landingPageChild38 {
+  width: 221.9px;
+}
+.landingPageChild37,
+.landingPageChild38 {
+  width: 259.1px;
+}
+.landingPageChild38 {
+  width: 230px;
+}
+.div15 {
+  width: 70px;
+  position: relative;
+  white-space: pre-wrap;
+}
+.avinashKumar5,
+.div15,
+.hyderabad5 {
+  display: none;
+  align-items: center;
+}
+.avinashKumar5 {
+  width: 200px;
+  position: relative;
+}
+.hyderabad5 {
+  width: 267px;
+  white-space: pre-wrap;
+}
+.div16,
+.div17,
+.hyderabad5 {
+  position: relative;
+}
+.div16 {
+  width: 235px;
+  white-space: pre-wrap;
+  display: none;
+  align-items: center;
+}
+.div17 {
+  width: 241px;
+}
+.developer5,
+.div17,
+.newJoin5 {
+  white-space: pre-wrap;
+  display: none;
+  align-items: center;
+}
+.developer5 {
+  width: 205px;
+  position: relative;
+}
+.newJoin5 {
+  width: 157px;
+  height: 52px;
+  flex-shrink: 0;
+}
+.frameChild,
+.id,
+.newJoin5 {
+  position: relative;
+}
+.frameChild {
+  align-self: stretch;
+  width: 72px;
+  background-color: var(--color-royalblue);
+  display: none;
+}
+.id {
+  height: 56px;
+  flex: 1;
+  font-weight: 600;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.rectangleParent {
+  width: 73px;
+  background-color: var(--color-royalblue);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-13xl);
+  color: var(--background-default-default);
+}
+.headerTitles,
+.placeholders {
+  position: absolute;
+  background-color: var(--border-default-default);
+}
+.headerTitles {
+  width: calc(100% - 4.7px);
+  top: 0;
+  right: 4.7px;
+  left: 0;
+  height: 58.2px;
+  z-index: 4;
+}
+.placeholders {
+  height: 100%;
+  width: 100%;
+  margin: 0 !important;
+  top: -3px;
+  left: -7px;
+  z-index: 2;
+}
+.empty {
+  height: 57px;
+  flex: 1;
+  position: relative;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  z-index: 5;
+}
+.placeholderCells {
+  position: absolute;
+  top: 3px;
+  left: 7px;
+  width: 70px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.headerCells {
+  height: 60px;
+  flex: 1;
+  position: relative;
+}
+.headerRow {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs);
+}
+.filterBoxes,
+.headerRowChild {
+  position: absolute;
+  background-color: var(--border-default-default);
+}
+.headerRowChild {
+  width: calc(100% - 4.7px);
+  top: 0;
+  right: 4.7px;
+  left: 0;
+  height: 58.2px;
+  z-index: 8;
+}
+.filterBoxes {
+  height: 100%;
+  width: 100%;
+  margin: 0 !important;
+  top: -3px;
+  left: -6px;
+  z-index: 6;
+}
+.filter {
+  height: 57px;
+  flex: 1;
+  position: relative;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  z-index: 9;
+}
+.filterBoxesParent {
+  position: absolute;
+  top: 3px;
+  left: 7px;
+  width: 70px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.headerRow1 {
+  width: 77px;
+  height: 60px;
+  position: relative;
+}
+.headerRowItem {
+  position: absolute;
+  width: calc(100% - 4.7px);
+  top: 0;
+  right: 4.7px;
+  left: 0;
+  background-color: var(--border-default-default);
+  height: 58.2px;
+}
+.div18 {
+  position: absolute;
+  height: calc(100% - 3px);
+  top: 3px;
+  left: 7px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 70px;
+  z-index: 1;
+}
+.headerRow2 {
+  width: 77px;
+  height: 60px;
+  position: relative;
+}
+.frameItem {
+  position: absolute;
+  width: calc(100% - 4.7px);
+  top: 0;
+  right: 4.7px;
+  left: 0;
+  background-color: var(--border-default-default);
+  height: 58.2px;
+}
+.div19 {
+  position: absolute;
+  height: calc(100% - 3px);
+  top: 3px;
+  left: 7px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 70px;
+  z-index: 1;
+}
+.rectangleGroup {
+  height: 60px;
+  flex: 1;
+  position: relative;
+}
+.headerRow3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs);
+}
+.headerRowInner {
+  position: absolute;
+  width: calc(100% - 4.7px);
+  top: 0;
+  right: 4.7px;
+  left: 0;
+  background-color: var(--border-default-default);
+  height: 58.2px;
+  z-index: 2;
+}
+.div20 {
+  position: absolute;
+  height: calc(100% - 3px);
+  top: 3px;
+  left: 7px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 70px;
+  z-index: 3;
+}
+.headerRow4 {
+  width: 77px;
+  height: 60px;
+  position: relative;
+}
+.frameChild1,
+.frameInner {
+  position: absolute;
+  background-color: var(--border-default-default);
+}
+.frameInner {
+  width: calc(100% - 4.7px);
+  top: 0;
+  right: 4.7px;
+  left: 0;
+  height: 58.2px;
+  z-index: 2;
+}
+.frameChild1 {
+  height: 100%;
+  width: 100%;
+  margin: 0 !important;
+  top: -3px;
+  left: -7px;
+}
+.div21 {
+  height: 57px;
+  flex: 1;
+  position: relative;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  z-index: 3;
+}
+.frameDiv {
+  position: absolute;
+  top: 3px;
+  left: 7px;
+  width: 70px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangleContainer {
+  height: 60px;
+  flex: 1;
+  position: relative;
+}
+.headerRow5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs);
+}
+.frameChild2,
+.headerRowChild1 {
+  position: absolute;
+  background-color: var(--border-default-default);
+}
+.headerRowChild1 {
+  width: calc(100% - 4.7px);
+  top: 0;
+  right: 4.7px;
+  left: 0;
+  height: 58.2px;
+  z-index: 6;
+}
+.frameChild2 {
+  height: 100%;
+  width: 100%;
+  margin: 0 !important;
+  top: -3px;
+  left: -6px;
+  z-index: 4;
+}
+.div22 {
+  height: 57px;
+  flex: 1;
+  position: relative;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  z-index: 7;
+}
+.rectangleParent1 {
+  position: absolute;
+  top: 3px;
+  left: 7px;
+  width: 70px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.headerRow6 {
+  width: 77px;
+  height: 60px;
+  position: relative;
+}
+.headerRowChild2 {
+  position: absolute;
+  width: calc(100% - 4.7px);
+  top: 0;
+  right: 4.7px;
+  left: 0;
+  background-color: var(--border-default-default);
+  height: 58.2px;
+}
+.div23 {
+  position: absolute;
+  height: calc(100% - 3px);
+  top: 3px;
+  left: 7px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 70px;
+  z-index: 1;
+}
+.headerRow7 {
+  width: 77px;
+  height: 60px;
+  position: relative;
+}
+.frameChild3 {
+  position: absolute;
+  width: calc(100% - 4.7px);
+  top: 0;
+  right: 4.7px;
+  left: 0;
+  background-color: var(--border-default-default);
+  height: 58.2px;
+}
+.div24 {
+  position: absolute;
+  height: calc(100% - 3px);
+  top: 3px;
+  left: 7px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 70px;
+  z-index: 1;
+}
+.rectangleParent2 {
+  height: 60px;
+  flex: 1;
+  position: relative;
+}
+.headerRow8 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs);
+}
+.headerRowChild3 {
+  position: absolute;
+  width: calc(100% - 4.7px);
+  top: 0;
+  right: 4.7px;
+  left: 0;
+  background-color: var(--border-default-default);
+  height: 58.2px;
+  z-index: 2;
+}
+.div25 {
+  position: absolute;
+  height: calc(100% - 3px);
+  top: 3px;
+  left: 7px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 70px;
+  z-index: 3;
+}
+.headerRow9 {
+  width: 77px;
+  height: 60px;
+  position: relative;
+}
+.frameChild4,
+.frameChild5 {
+  position: absolute;
+  background-color: var(--border-default-default);
+}
+.frameChild4 {
+  width: calc(100% - 4.7px);
+  top: 0;
+  right: 4.7px;
+  left: 0;
+  height: 58.2px;
+  z-index: 6;
+}
+.frameChild5 {
+  height: 100%;
+  width: 100%;
+  margin: 0 !important;
+  top: -3px;
+  left: -7px;
+  z-index: 4;
+}
+.div26 {
+  height: 57px;
+  flex: 1;
+  position: relative;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  z-index: 7;
+}
+.rectangleParent4 {
+  position: absolute;
+  top: 3px;
+  left: 7px;
+  width: 70px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangleParent3 {
+  height: 60px;
+  flex: 1;
+  position: relative;
+}
+.headerRow10 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-11xs);
+}
+.frameChild6,
+.frameChild7 {
+  position: absolute;
+  background-color: var(--border-default-default);
+}
+.frameChild6 {
+  width: calc(100% - 4.7px);
+  top: 0;
+  right: 4.7px;
+  left: 0;
+  height: 58.2px;
+  z-index: 10;
+}
+.frameChild7 {
+  height: 100%;
+  width: 100%;
+  margin: 0 !important;
+  top: -3px;
+  left: -6px;
+  z-index: 8;
+}
+.div27 {
+  height: 57px;
+  flex: 1;
+  position: relative;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  z-index: 11;
+}
+.rectangleParent6 {
+  position: absolute;
+  top: 3px;
+  left: 7px;
+  width: 70px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangleParent5 {
+  height: 60px;
+  flex: 1;
+  position: relative;
+}
+.headerRow11 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs);
+}
+.frameChild8 {
+  position: absolute;
+  width: calc(100% - 4.7px);
+  top: 0;
+  right: 4.7px;
+  left: 0;
+  background-color: var(--border-default-default);
+  height: 58.2px;
+}
+.div28 {
+  position: absolute;
+  height: calc(100% - 3px);
+  top: 3px;
+  left: 7px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 70px;
+  z-index: 1;
+}
+.rectangleParent7 {
+  height: 60px;
+  flex: 1;
+  position: relative;
+}
+.headerRow12 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs);
+}
+.frameChild9 {
+  position: absolute;
+  width: calc(100% - 4.7px);
+  top: 0;
+  right: 4.7px;
+  left: 0;
+  background-color: var(--border-default-default);
+  height: 58.2px;
+}
+.div29 {
+  position: absolute;
+  height: calc(100% - 3px);
+  top: 3px;
+  left: 7px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 70px;
+  z-index: 1;
+}
+.rectangleParent8 {
+  height: 60px;
+  flex: 1;
+  position: relative;
+}
+.headerRow13 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-11xs);
+}
+.frameChild10 {
+  position: absolute;
+  width: calc(100% - 4.7px);
+  top: 0;
+  right: 4.7px;
+  left: 0;
+  background-color: var(--border-default-default);
+  height: 58.2px;
+  z-index: 2;
+}
+.div30 {
+  position: absolute;
+  height: calc(100% - 3px);
+  top: 3px;
+  left: 7px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 70px;
+  z-index: 3;
+}
+.rectangleParent9 {
+  height: 60px;
+  flex: 1;
+  position: relative;
+}
+.headerRow14,
+.tableContainer,
+.tableHeader {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.headerRow14 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-12xs);
+}
+.tableContainer,
+.tableHeader {
+  flex-direction: column;
+}
+.tableHeader {
+  align-self: stretch;
+  gap: var(--gap-12xs-2);
+}
+.tableContainer {
+  width: 87px;
+  padding: var(--padding-11xs) var(--padding-5xs) 0 0;
+  box-sizing: border-box;
+}
+.employeeHeaderLabels {
+  position: absolute;
+  width: calc(100% - 5px);
+  top: 2px;
+  right: 0;
+  left: 5px;
+  background-color: var(--color-royalblue);
+  height: 56px;
+}
+.name {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+.employeeHeaderColumn2 {
+  height: 58px;
+  flex: 1;
+  position: relative;
+}
+.employeeHeaderColumn,
+.employeeHeaderColumn1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.employeeHeaderColumn1 {
+  flex: 1;
+  justify-content: flex-start;
+}
+.employeeHeaderColumn {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-6xs) 0 0;
+  font-size: var(--font-size-13xl);
+  color: var(--background-default-default);
+}
+.employeeName {
+  position: absolute;
+  height: calc(100% - 1.8px);
+  top: 0;
+  bottom: 1.8px;
+  left: 6.3px;
+  background-color: var(--border-default-default);
+  width: 202.9px;
+  z-index: 6;
+}
+.avinashKumar6 {
+  position: absolute;
+  width: calc(100% - 14px);
+  top: 1px;
+  left: 14px;
+  display: flex;
+  align-items: center;
+  height: 59px;
+  z-index: 7;
+}
+.employeeImage {
+  align-self: stretch;
+  height: 60px;
+  position: relative;
+}
+.employeeImage1 {
+  position: absolute;
+  height: calc(100% - 1.8px);
+  top: 0;
+  bottom: 1.8px;
+  left: 6.3px;
+  background-color: var(--border-default-default);
+  width: 202.9px;
+}
+.avinashKumar7 {
+  position: absolute;
+  width: calc(100% - 14px);
+  top: 1px;
+  left: 14px;
+  display: flex;
+  align-items: center;
+  height: 59px;
+  z-index: 1;
+}
+.employeeCard {
+  align-self: stretch;
+  height: 60px;
+  position: relative;
+}
+.employeeHeaderColumns {
+  width: 225px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 var(--padding-2xs) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-12xs-2);
+  margin-left: -11px;
+}
+.locationBox {
+  position: absolute;
+  top: 0;
+  left: 4px;
+  background-color: var(--color-royalblue);
+  width: 100%;
+  height: 100%;
+}
+.location {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  line-height: 42px;
+  font-weight: 600;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 262px;
+  height: 42px;
+  z-index: 1;
+}
+.locationField {
+  height: 56px;
+  flex: 1;
+  position: relative;
+}
+.locationFilter,
+.locationInput {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.locationInput {
+  flex: 1;
+  justify-content: flex-start;
+}
+.locationFilter {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-5xs) 0 0;
+  font-size: var(--font-size-13xl);
+  color: var(--background-default-default);
+}
+.locationRowChild {
+  position: absolute;
+  height: calc(100% - 1.8px);
+  top: 0;
+  bottom: 1.8px;
+  left: 3.2px;
+  background-color: var(--border-default-default);
+  width: 259.1px;
+  z-index: 6;
+}
+.hyderabad6 {
+  position: absolute;
+  top: 5px;
+  left: 3px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 267px;
+  height: 55px;
+  z-index: 7;
+}
+.locationRow {
+  align-self: stretch;
+  height: 60px;
+  position: relative;
+}
+.locationRowItem {
+  position: absolute;
+  height: calc(100% - 1.8px);
+  top: 0;
+  bottom: 1.8px;
+  left: 3.2px;
+  background-color: var(--border-default-default);
+  width: 259.1px;
+}
+.hyderabad7 {
+  position: absolute;
+  top: 5px;
+  left: 3px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 267px;
+  height: 55px;
+  z-index: 1;
+}
+.locationRow1 {
+  align-self: stretch;
+  height: 60px;
+  position: relative;
+}
+.locationColumn,
+.locationHeader {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.locationHeader {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: var(--gap-12xs-2);
+}
+.locationColumn {
+  flex: 1;
+  align-items: flex-start;
+  padding: var(--padding-11xs) var(--padding-smi) 0 0;
+  box-sizing: border-box;
+  min-width: 184px;
+  margin-left: -11px;
+}
+.frameChild11 {
+  height: 56px;
+  width: 229px;
+  position: relative;
+  background-color: var(--color-royalblue);
+  display: none;
+}
+.joiningDate {
+  flex: 1;
+  position: relative;
+  font-weight: 600;
+  white-space: pre-wrap;
+  z-index: 1;
+}
+.frameContainer,
+.rectangleParent10 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.rectangleParent10 {
+  flex: 1;
+  background-color: var(--color-royalblue);
+  justify-content: flex-start;
+  padding: var(--padding-8xs) 0 0;
+  white-space: nowrap;
+}
+.frameContainer {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-4xs) 0 0;
+  font-size: var(--font-size-13xl);
+  color: var(--background-default-default);
+}
+.employeeDataCells {
+  position: absolute;
+  width: calc(100% - 5px);
+  top: 0;
+  right: 3.6px;
+  left: 1.4px;
+  background-color: var(--border-default-default);
+  height: 58.2px;
+  z-index: 4;
+}
+.employeeDataLabels {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 235px;
+  height: 51px;
+  z-index: 5;
+}
+.employeeDataColumns1 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.employeeDataColumns,
+.employeeDataRow {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.employeeDataColumns {
+  flex: 1;
+  justify-content: flex-start;
+}
+.employeeDataRow {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) 0 var(--padding-10xs);
+}
+.employeeDataCells1 {
+  position: absolute;
+  width: calc(100% - 5px);
+  top: 0;
+  right: 3.6px;
+  left: 1.4px;
+  background-color: var(--border-default-default);
+  height: 58.2px;
+  z-index: 2;
+}
+.employeeDataLabels1 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 235px;
+  height: 51px;
+  z-index: 3;
+}
+.employeeDataColumns3 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.employeeDataColumns2,
+.employeeDataRow1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.employeeDataColumns2 {
+  flex: 1;
+  justify-content: flex-start;
+}
+.employeeDataRow1 {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs);
+}
+.employeeDataCells2 {
+  position: absolute;
+  width: calc(100% - 5px);
+  top: 0;
+  right: 3.6px;
+  left: 1.4px;
+  background-color: var(--border-default-default);
+  height: 58.2px;
+}
+.employeeDataLabels2 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 235px;
+  height: 51px;
+  z-index: 1;
+}
+.employeeDataColumns4 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.employeeDataRow2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs);
+}
+.employeeDataCells3 {
+  position: absolute;
+  width: calc(100% - 5px);
+  top: 0;
+  right: 3.6px;
+  left: 1.4px;
+  background-color: var(--border-default-default);
+  height: 58.2px;
+}
+.employeeDataLabels3 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 235px;
+  height: 51px;
+  z-index: 1;
+}
+.employeeDataColumns5 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.employeeDataRow3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) 0 var(--padding-10xs);
+}
+.employeeDataCells4 {
+  position: absolute;
+  width: calc(100% - 5px);
+  top: 0;
+  right: 3.6px;
+  left: 1.4px;
+  background-color: var(--border-default-default);
+  height: 58.2px;
+}
+.employeeDataLabels4 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 235px;
+  height: 51px;
+  z-index: 1;
+}
+.employeeDataColumns6 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.employeeDataRow4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs);
+}
+.employeeDataCells5 {
+  position: absolute;
+  width: calc(100% - 5px);
+  top: 0;
+  right: 3.6px;
+  left: 1.4px;
+  background-color: var(--border-default-default);
+  height: 58.2px;
+  z-index: 2;
+}
+.employeeDataLabels5 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 235px;
+  height: 51px;
+  z-index: 3;
+}
+.employeeDataColumns7 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.employeeDataRow5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) 0 var(--padding-10xs);
+}
+.employeeDataCells6 {
+  position: absolute;
+  width: calc(100% - 5px);
+  top: 0;
+  right: 3.6px;
+  left: 1.4px;
+  background-color: var(--border-default-default);
+  height: 58.2px;
+  z-index: 2;
+}
+.employeeDataLabels6 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 235px;
+  height: 51px;
+  z-index: 3;
+}
+.employeeDataColumns8 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.employeeDataRow6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs);
+}
+.employeeDataCells7 {
+  position: absolute;
+  width: calc(100% - 5px);
+  top: 0;
+  right: 3.6px;
+  left: 1.4px;
+  background-color: var(--border-default-default);
+  height: 58.2px;
+}
+.employeeDataLabels7 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 235px;
+  height: 51px;
+  z-index: 1;
+}
+.employeeDataColumns9 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.employeeDataRow7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs);
+}
+.employeeDataCells8 {
+  position: absolute;
+  width: calc(100% - 5px);
+  top: 0;
+  right: 3.6px;
+  left: 1.4px;
+  background-color: var(--border-default-default);
+  height: 58.2px;
+}
+.employeeDataLabels8 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 235px;
+  height: 51px;
+  z-index: 1;
+}
+.employeeDataColumns10 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.employeeDataRow8 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) 0 var(--padding-10xs);
+}
+.employeeDataCells9 {
+  position: absolute;
+  width: calc(100% - 5px);
+  top: 0;
+  right: 3.6px;
+  left: 1.4px;
+  background-color: var(--border-default-default);
+  height: 58.2px;
+}
+.employeeDataLabels9 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 235px;
+  height: 51px;
+  z-index: 1;
+}
+.employeeDataColumns11 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.employeeDataRow9 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs);
+}
+.employeeDataCells10 {
+  position: absolute;
+  top: 0;
+  left: 5.4px;
+  background-color: var(--border-default-default);
+  width: 230px;
+  height: 58.2px;
+  z-index: 2;
+}
+.employeeDataLabels10 {
+  position: absolute;
+  top: 1px;
+  left: 4px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 235px;
+  height: 51px;
+  z-index: 3;
+}
+.employeeDataRow10 {
+  align-self: stretch;
+  height: 58.2px;
+  position: relative;
+}
+.employeeDataCells11 {
+  position: absolute;
+  width: calc(100% - 5px);
+  top: 0;
+  right: 3.6px;
+  left: 1.4px;
+  background-color: var(--border-default-default);
+  height: 58.2px;
+  z-index: 2;
+}
+.employeeDataLabels11 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 235px;
+  height: 51px;
+  z-index: 3;
+}
+.employeeDataColumns12 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.employeeDataRow11 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) 0 var(--padding-10xs);
+}
+.employeeDataCells12 {
+  position: absolute;
+  width: calc(100% - 5px);
+  top: 0;
+  right: 3.6px;
+  left: 1.4px;
+  background-color: var(--border-default-default);
+  height: 58.2px;
+}
+.employeeDataLabels12 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 235px;
+  height: 51px;
+  z-index: 1;
+}
+.employeeDataColumns13 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.employeeDataRow12 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) 0 var(--padding-10xs);
+}
+.employeeDataCells13 {
+  position: absolute;
+  top: 0;
+  left: 5.4px;
+  background-color: var(--border-default-default);
+  width: 230px;
+  height: 58.2px;
+}
+.employeeDataLabels13 {
+  position: absolute;
+  top: 1px;
+  left: 4px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 235px;
+  height: 51px;
+  z-index: 1;
+}
+.employeeDataRow13 {
+  align-self: stretch;
+  height: 58.2px;
+  position: relative;
+}
+.employeeDataCells14 {
+  position: absolute;
+  width: calc(100% - 5px);
+  top: 0;
+  right: 3.6px;
+  left: 1.4px;
+  background-color: var(--border-default-default);
+  height: 58.2px;
+}
+.employeeDataLabels14 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 235px;
+  height: 51px;
+  z-index: 1;
+}
+.employeeDataColumns14 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.employeeDataRow14 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) 0 var(--padding-10xs);
+}
+.employeeHeaderColumns1,
+.frameGroup {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frameGroup {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: var(--gap-11xs-9);
+}
+.employeeHeaderColumns1 {
+  width: 252px;
+  align-items: flex-start;
+  padding: var(--padding-11xs) var(--padding-smi) 0 0;
+  box-sizing: border-box;
+  margin-left: -11px;
+}
+.frameChild12 {
+  height: 56px;
+  width: 236px;
+  position: relative;
+  background-color: var(--color-royalblue);
+  display: none;
+}
+.contact {
+  flex: 1;
+  position: relative;
+  font-weight: 600;
+  white-space: pre-wrap;
+  z-index: 1;
+}
+.frameWrapper1,
+.rectangleParent11 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.rectangleParent11 {
+  flex: 1;
+  background-color: var(--color-royalblue);
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0 0;
+  white-space: nowrap;
+}
+.frameWrapper1 {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-3xs) 0 0;
+  font-size: var(--font-size-13xl);
+  color: var(--background-default-default);
+}
+.frameChild13 {
+  position: absolute;
+  height: calc(100% - 1.8px);
+  top: 0;
+  bottom: 1.8px;
+  left: 4.4px;
+  background-color: var(--border-default-default);
+  width: 237px;
+  z-index: 6;
+}
+.div31 {
+  position: absolute;
+  width: calc(100% - 5px);
+  top: 9px;
+  left: 5px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  height: 51px;
+  z-index: 7;
+}
+.rectangleParent12 {
+  align-self: stretch;
+  height: 60px;
+  position: relative;
+}
+.frameChild14 {
+  position: absolute;
+  height: calc(100% - 1.8px);
+  top: 0;
+  bottom: 1.8px;
+  left: 4.4px;
+  background-color: var(--border-default-default);
+  width: 237px;
+}
+.div32 {
+  position: absolute;
+  width: calc(100% - 5px);
+  top: 9px;
+  left: 5px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  height: 51px;
+  z-index: 1;
+}
+.rectangleParent13 {
+  align-self: stretch;
+  height: 60px;
+  position: relative;
+}
+.employeeHeaderColumns2,
+.frameParent1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frameParent1 {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: var(--gap-12xs-2);
+}
+.employeeHeaderColumns2 {
+  width: 258px;
+  align-items: flex-start;
+  padding: var(--padding-11xs) var(--padding-xs) 0 0;
+  box-sizing: border-box;
+  margin-left: -11px;
+}
+.frameChild15 {
+  height: 56px;
+  width: 203px;
+  position: relative;
+  background-color: var(--color-royalblue);
+  display: none;
+}
+.designation {
+  position: relative;
+  line-height: 42px;
+  font-weight: 600;
+  z-index: 1;
+}
+.frameWrapper2,
+.rectangleParent14 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.rectangleParent14 {
+  flex: 1;
+  background-color: var(--color-royalblue);
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-11xs) var(--padding-7xs);
+}
+.frameWrapper2 {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-2xs) 0 0;
+  font-size: var(--font-size-13xl);
+  color: var(--background-default-default);
+}
+.frameChild16 {
+  position: absolute;
+  height: calc(100% - 1.8px);
+  top: 0;
+  bottom: 1.8px;
+  left: 5.5px;
+  background-color: var(--border-default-default);
+  width: 203.9px;
+  z-index: 6;
+}
+.developer6 {
+  position: absolute;
+  width: calc(100% - 9px);
+  top: 1px;
+  left: 9px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  height: 59px;
+  z-index: 7;
+}
+.rectangleParent15 {
+  align-self: stretch;
+  height: 60px;
+  position: relative;
+}
+.frameChild17 {
+  position: absolute;
+  height: calc(100% - 1.8px);
+  top: 0;
+  bottom: 1.8px;
+  left: 5.5px;
+  background-color: var(--border-default-default);
+  width: 203.9px;
+}
+.developer7 {
+  position: absolute;
+  width: calc(100% - 9px);
+  top: 1px;
+  left: 9px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  height: 59px;
+  z-index: 1;
+}
+.rectangleParent16 {
+  align-self: stretch;
+  height: 60px;
+  position: relative;
+}
+.employeeHeaderColumns3,
+.frameParent2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frameParent2 {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: var(--gap-12xs-2);
+}
+.employeeHeaderColumns3 {
+  width: 225px;
+  align-items: flex-start;
+  padding: var(--padding-11xs) var(--padding-2xs) 0 0;
+  box-sizing: border-box;
+  margin-left: -11px;
+}
+.frameChild18 {
+  height: 56px;
+  width: 144px;
+  position: relative;
+  background-color: var(--color-royalblue);
+  display: none;
+}
+.status {
+  flex: 1;
+  position: relative;
+  line-height: 42px;
+  font-weight: 600;
+  white-space: pre-wrap;
+  z-index: 1;
+}
+.frameWrapper3,
+.rectangleParent17 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.rectangleParent17 {
+  flex: 1;
+  background-color: var(--color-royalblue);
+  justify-content: flex-start;
+  padding: var(--padding-5xs) 0 var(--padding-7xs) var(--padding-9xs);
+  white-space: nowrap;
+}
+.frameWrapper3 {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 22px 0 0;
+  font-size: var(--font-size-13xl);
+  color: var(--background-default-default);
+}
+.frameChild19 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--border-default-default);
+  width: 144.6px;
+  height: 58.2px;
+  z-index: 3;
+}
+.newJoin6 {
+  position: absolute;
+  top: 0;
+  left: 2.6px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 157px;
+  height: 52px;
+  z-index: 4;
+}
+.rectangleParent18 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.frameWrapper4,
+.frameWrapper5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frameWrapper5 {
+  flex: 1;
+  justify-content: flex-start;
+}
+.frameWrapper4 {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) 0 var(--padding-8xs);
+}
+.frameChild20 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--border-default-default);
+  width: 144.6px;
+  height: 58.2px;
+  z-index: 2;
+}
+.newJoin7 {
+  position: absolute;
+  top: 0;
+  left: 2.6px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 157px;
+  height: 52px;
+  z-index: 3;
+}
+.rectangleParent19 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.frameWrapper6,
+.frameWrapper7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frameWrapper7 {
+  flex: 1;
+  justify-content: flex-start;
+}
+.frameWrapper6 {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs) 0 var(--padding-9xs);
+}
+.frameChild21 {
+  position: absolute;
+  top: 0;
+  left: 0.4px;
+  background-color: var(--border-default-default);
+  width: 144.6px;
+  height: 58.2px;
+}
+.newJoin8 {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 157px;
+  height: 52px;
+  z-index: 1;
+}
+.rectangleParent20 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.frameWrapper8 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs) 0 var(--padding-9xs);
+}
+.frameChild22 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0.4px;
+  background-color: var(--border-default-default);
+  width: 144.6px;
+}
+.newJoin9 {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 157px;
+  height: 52px;
+  z-index: 1;
+}
+.rectangleParent21 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.frameWrapper9 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) 0 var(--padding-8xs);
+}
+.frameChild23 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0.4px;
+  background-color: var(--border-default-default);
+  width: 144.6px;
+}
+.newJoin10 {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 157px;
+  height: 52px;
+  z-index: 1;
+}
+.rectangleParent22 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.frameWrapper10 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs) 0 var(--padding-9xs);
+}
+.frameChild24 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0.4px;
+  background-color: var(--border-default-default);
+  width: 144.6px;
+  z-index: 2;
+}
+.newJoin11 {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 157px;
+  height: 52px;
+  z-index: 3;
+}
+.rectangleParent23 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.frameWrapper11 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) 0 var(--padding-8xs);
+}
+.frameChild25 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0.4px;
+  background-color: var(--border-default-default);
+  width: 144.6px;
+  z-index: 2;
+}
+.newJoin12 {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 157px;
+  height: 52px;
+  z-index: 3;
+}
+.rectangleParent24 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.frameWrapper12 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs) 0 var(--padding-9xs);
+}
+.frameChild26 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0.4px;
+  background-color: var(--border-default-default);
+  width: 144.6px;
+}
+.newJoin13 {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 157px;
+  height: 52px;
+  z-index: 1;
+}
+.rectangleParent25 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.frameWrapper13 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs) 0 var(--padding-9xs);
+}
+.frameChild27 {
+  position: absolute;
+  top: 0;
+  left: 0.4px;
+  background-color: var(--border-default-default);
+  width: 144.6px;
+  height: 58.2px;
+}
+.newJoin14 {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 157px;
+  height: 52px;
+  z-index: 1;
+}
+.rectangleParent26 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.frameWrapper14 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) 0 var(--padding-8xs);
+}
+.frameChild28 {
+  position: absolute;
+  top: 0;
+  left: 0.4px;
+  background-color: var(--border-default-default);
+  width: 144.6px;
+  height: 58.2px;
+}
+.newJoin15 {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 157px;
+  height: 52px;
+  z-index: 1;
+}
+.rectangleParent27 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.frameWrapper15 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs) 0 var(--padding-9xs);
+}
+.frameChild29 {
+  position: absolute;
+  top: 0;
+  left: 6.4px;
+  background-color: var(--border-default-default);
+  width: 144.6px;
+  height: 58.2px;
+  z-index: 2;
+}
+.newJoin16 {
+  position: absolute;
+  width: calc(100% - 9px);
+  top: 0;
+  left: 9px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  height: 52px;
+  z-index: 3;
+}
+.rectangleParent28 {
+  align-self: stretch;
+  height: 58.2px;
+  position: relative;
+}
+.frameChild30 {
+  position: absolute;
+  top: 0;
+  left: 0.4px;
+  background-color: var(--border-default-default);
+  width: 144.6px;
+  height: 58.2px;
+  z-index: 2;
+}
+.newJoin17 {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 157px;
+  height: 52px;
+  z-index: 3;
+}
+.rectangleParent29 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.frameWrapper16 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) 0 var(--padding-8xs);
+}
+.frameChild31 {
+  position: absolute;
+  top: 0;
+  left: 0.4px;
+  background-color: var(--border-default-default);
+  width: 144.6px;
+  height: 58.2px;
+}
+.newJoin18 {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 157px;
+  height: 52px;
+  z-index: 1;
+}
+.rectangleParent30 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.frameWrapper17 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) 0 var(--padding-8xs);
+}
+.frameChild32 {
+  position: absolute;
+  top: 0;
+  left: 6.4px;
+  background-color: var(--border-default-default);
+  width: 144.6px;
+  height: 58.2px;
+}
+.newJoin19 {
+  position: absolute;
+  width: calc(100% - 9px);
+  top: 0;
+  left: 9px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  height: 52px;
+  z-index: 1;
+}
+.rectangleParent31 {
+  align-self: stretch;
+  height: 58.2px;
+  position: relative;
+}
+.frameChild33 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0.4px;
+  background-color: var(--border-default-default);
+  width: 144.6px;
+}
+.newJoin20 {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 157px;
+  height: 52px;
+  z-index: 1;
+}
+.rectangleParent32 {
+  height: 58.2px;
+  flex: 1;
+  position: relative;
+}
+.frameWrapper18 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) 0 var(--padding-8xs);
+}
+.employeeHeaderColumns4,
+.frameParent3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frameParent3 {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: var(--gap-11xs-9);
+}
+.employeeHeaderColumns4 {
+  width: 166px;
+  align-items: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+  margin-left: -11px;
+}
+.toolsHeaderChild {
+  height: 56px;
+  width: 221px;
+  position: relative;
+  background-color: var(--color-royalblue);
+  display: none;
+}
+.tools {
+  flex: 1;
+  position: relative;
+  line-height: 42px;
+  font-weight: 600;
+  white-space: pre-wrap;
+  z-index: 1;
+}
+.toolsHeader,
+.toolsHeaderWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.toolsHeader {
+  flex: 1;
+  background-color: var(--color-royalblue);
+  justify-content: flex-start;
+  padding: var(--padding-5xs) 0 var(--padding-7xs) var(--padding-12xs);
+  white-space: nowrap;
+}
+.toolsHeaderWrapper {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-5xs) 0 0;
+}
+.buttonPairsChild {
+  height: 41.6px;
+  width: 40.2px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0.4px;
+  left: 63.4px;
+  z-index: 2;
+}
+.flowbiteeditSolidIcon,
+.icroundDeleteIcon {
+  height: 42px;
+  width: 40px;
+  top: 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.flowbiteeditSolidIcon {
+  position: absolute;
+  margin: 0 !important;
+  left: 1px;
+}
+.icroundDeleteIcon {
+  right: 0;
+}
+.buttonPairsItem,
+.divider,
+.icroundDeleteIcon {
+  position: absolute;
+  margin: 0 !important;
+}
+.divider {
+  height: 58.2px;
+  width: 221.9px;
+  top: -10px;
+  left: -31.9px;
+  background-color: var(--border-default-default);
+  z-index: 3;
+}
+.buttonPairsItem {
+  height: 41.6px;
+  width: 40.2px;
+  bottom: 0;
+  left: 63.4px;
+  z-index: 1;
+}
+.flowbiteeditSolidIcon1 {
+  height: 42px;
+  width: 40px;
+  bottom: 0;
+  left: 1px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.dividerCopy,
+.flowbiteeditSolidIcon1,
+.icroundDeleteIcon1 {
+  position: absolute;
+  margin: 0 !important;
+}
+.icroundDeleteIcon1 {
+  height: 42px;
+  width: 40px;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.dividerCopy {
+  height: 58.2px;
+  width: 221.9px;
+  bottom: -6.2px;
+  left: -32.9px;
+  background-color: var(--border-default-default);
+  z-index: 2;
+}
+.flowbiteeditSolidIcon2 {
+  height: 42px;
+  width: 40px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.editButtons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.flowbiteeditSolidIcon3 {
+  width: 40px;
+  height: 42px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.editButtonsParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.icroundDeleteIcon2 {
+  height: 42px;
+  width: 40px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.deleteIconPair {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.icroundDeleteIcon3 {
+  width: 40px;
+  height: 42px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.deleteButtons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.nestedButtons {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.buttonPairs,
+.editDeleteButtons,
+.nestedButtons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.buttonPairs {
+  flex: 1;
+  justify-content: flex-start;
+  position: relative;
+}
+.editDeleteButtons {
+  width: 211px;
+  justify-content: flex-end;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.editDeleteIconsChild {
+  height: 58.2px;
+  width: 221.9px;
+  position: relative;
+  background-color: var(--border-default-default);
+  display: none;
+}
+.flowbiteeditSolidIcon4,
+.icroundDeleteIcon4 {
+  height: 42px;
+  width: 40px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 42px;
+  z-index: 1;
+}
+.editButtonChild,
+.editDeleteIcons {
+  background-color: var(--border-default-default);
+}
+.editDeleteIcons {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-3xs) var(--padding-xl) var(--padding-6xs-2)
+    var(--padding-13xl);
+  gap: var(--gap-xl);
+}
+.editButtonChild {
+  height: 58.2px;
+  width: 221.9px;
+  position: relative;
+  display: none;
+}
+.flowbiteeditSolidIcon5,
+.icroundDeleteIcon5 {
+  height: 42px;
+  width: 40px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 42px;
+  z-index: 1;
+}
+.editButton,
+.editContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.editButton {
+  flex: 1;
+  background-color: var(--border-default-default);
+  justify-content: space-between;
+  padding: var(--padding-3xs) var(--padding-xl) var(--padding-6xs-2)
+    var(--padding-13xl);
+  gap: var(--gap-xl);
+}
+.editContainer {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.editDeleteIconsItem {
+  height: 58.2px;
+  width: 221.9px;
+  position: relative;
+  background-color: var(--border-default-default);
+  display: none;
+}
+.flowbiteeditSolidIcon6,
+.icroundDeleteIcon6 {
+  height: 42px;
+  width: 40px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 42px;
+  z-index: 1;
+}
+.editDeleteIcons1,
+.editDeleteRow {
+  display: flex;
+  align-items: flex-start;
+}
+.editDeleteIcons1 {
+  align-self: stretch;
+  background-color: var(--border-default-default);
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-3xs) var(--padding-xl) var(--padding-6xs-2)
+    var(--padding-13xl);
+  gap: var(--gap-xl);
+}
+.editDeleteRow {
+  height: 179.2px;
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 60px;
+  box-sizing: border-box;
+  gap: var(--gap-10xs-3);
+}
+.editDeleteRowWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) 0 var(--padding-8xs);
+}
+.placeholderButtonsChild {
+  height: 41.6px;
+  width: 40.2px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0.4px;
+  left: 63.4px;
+  z-index: 1;
+}
+.flowbiteeditSolidIcon7,
+.icroundDeleteIcon7 {
+  height: 42px;
+  width: 40px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.flowbiteeditSolidIcon7 {
+  left: 1px;
+}
+.icroundDeleteIcon7 {
+  right: 0;
+}
+.placeholderIcons {
+  height: 58.2px;
+  width: 221.9px;
+  position: absolute;
+  margin: 0 !important;
+  top: -10px;
+  left: -31.9px;
+  background-color: var(--border-default-default);
+  z-index: 2;
+}
+.placeholderButtonsItem {
+  height: 41.6px;
+  width: 40.2px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 0;
+  left: 63.4px;
+  z-index: 1;
+}
+.flowbiteeditSolidIcon8,
+.icroundDeleteIcon8 {
+  height: 42px;
+  width: 40px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.flowbiteeditSolidIcon8 {
+  left: 1px;
+}
+.icroundDeleteIcon8 {
+  right: 0;
+}
+.placeholderIcons1 {
+  height: 58.2px;
+  width: 221.9px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -6.2px;
+  left: -32.9px;
+  background-color: var(--border-default-default);
+  z-index: 2;
+}
+.flowbiteeditSolidIcon9 {
+  height: 42px;
+  width: 40px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.editIcon {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.flowbiteeditSolidIcon10 {
+  width: 40px;
+  height: 42px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.editIconPair {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.icroundDeleteIcon9 {
+  height: 42px;
+  width: 40px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.icroundDeleteWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.icroundDeleteIcon10 {
+  width: 40px;
+  height: 42px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.editIconPair1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.editTools {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.editTools,
+.placeholderButtons,
+.placeholderContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.placeholderButtons {
+  flex: 1;
+  justify-content: flex-start;
+  position: relative;
+}
+.placeholderContainer {
+  width: 209px;
+  justify-content: flex-end;
+  padding: 0 var(--padding-lgi);
+  box-sizing: border-box;
+}
+.editIconPairChild {
+  height: 58.2px;
+  width: 221.9px;
+  position: relative;
+  background-color: var(--border-default-default);
+  display: none;
+}
+.flowbiteeditSolidIcon11,
+.icroundDeleteIcon11 {
+  height: 42px;
+  width: 40px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 42px;
+  z-index: 1;
+}
+.editIconChild,
+.editIconPair2 {
+  background-color: var(--border-default-default);
+}
+.editIconPair2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-3xs) var(--padding-xl) var(--padding-6xs-2)
+    var(--padding-13xl);
+  gap: var(--gap-xl);
+}
+.editIconChild {
+  height: 58.2px;
+  width: 221.9px;
+  position: relative;
+  display: none;
+}
+.flowbiteeditSolidIcon12,
+.icroundDeleteIcon12 {
+  height: 42px;
+  width: 40px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 42px;
+  z-index: 1;
+}
+.editIcon1,
+.singleEdit {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.editIcon1 {
+  flex: 1;
+  background-color: var(--border-default-default);
+  justify-content: space-between;
+  padding: var(--padding-3xs) var(--padding-xl) var(--padding-6xs-2)
+    var(--padding-13xl);
+  gap: var(--gap-xl);
+}
+.singleEdit {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.editIconPairItem {
+  height: 58.2px;
+  width: 221.9px;
+  position: relative;
+  background-color: var(--border-default-default);
+  display: none;
+}
+.flowbiteeditSolidIcon13,
+.icroundDeleteIcon13 {
+  height: 42px;
+  width: 40px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 42px;
+  z-index: 1;
+}
+.editIconPair3 {
+  align-self: stretch;
+  background-color: var(--border-default-default);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-3xs) var(--padding-xl) var(--padding-6xs-2)
+    var(--padding-13xl);
+  gap: var(--gap-xl);
+}
+.entryEditTools,
+.placeholderRow {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.entryEditTools {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: var(--gap-10xs-3);
+}
+.placeholderRow {
+  flex: 1;
+  align-items: flex-end;
+  gap: var(--gap-5xs);
+}
+.placeholderRowWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) 0 var(--padding-8xs);
+}
+.groupIcon {
+  height: 41.6px;
+  width: 40.2px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0.4px;
+  left: 63.4px;
+  z-index: 1;
+}
+.flowbiteeditSolidIcon14,
+.icroundDeleteIcon14 {
+  height: 42px;
+  width: 40px;
+  top: 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.flowbiteeditSolidIcon14 {
+  position: absolute;
+  margin: 0 !important;
+  left: 1px;
+}
+.icroundDeleteIcon14 {
+  right: 0;
+}
+.frameChild34,
+.frameChild35,
+.icroundDeleteIcon14 {
+  position: absolute;
+  margin: 0 !important;
+}
+.frameChild34 {
+  height: 58.2px;
+  width: 221.9px;
+  top: -10px;
+  left: -31.9px;
+  background-color: var(--border-default-default);
+  z-index: 2;
+}
+.frameChild35 {
+  height: 41.6px;
+  width: 40.2px;
+  bottom: 0;
+  left: 63.4px;
+  z-index: 1;
+}
+.flowbiteeditSolidIcon15 {
+  height: 42px;
+  width: 40px;
+  bottom: 0;
+  left: 1px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.flowbiteeditSolidIcon15,
+.frameChild36,
+.icroundDeleteIcon15 {
+  position: absolute;
+  margin: 0 !important;
+}
+.icroundDeleteIcon15 {
+  height: 42px;
+  width: 40px;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.frameChild36 {
+  height: 58.2px;
+  width: 221.9px;
+  bottom: -6.2px;
+  left: -32.9px;
+  background-color: var(--border-default-default);
+  z-index: 2;
+}
+.flowbiteeditSolidIcon16 {
+  height: 42px;
+  width: 40px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.flowbiteeditSolidWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.flowbiteeditSolidIcon17 {
+  width: 40px;
+  height: 42px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.frameParent6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.icroundDeleteIcon16 {
+  height: 42px;
+  width: 40px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.icroundDeleteContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.icroundDeleteIcon17 {
+  width: 40px;
+  height: 42px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.frameParent7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.frameParent5 {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.editDeleteButtons1,
+.frameParent4,
+.frameParent5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frameParent4 {
+  flex: 1;
+  justify-content: flex-start;
+  position: relative;
+}
+.editDeleteButtons1 {
+  width: 209px;
+  justify-content: flex-end;
+  padding: 0 var(--padding-lgi);
+  box-sizing: border-box;
+}
+.editIconPairInner {
+  height: 58.2px;
+  width: 221.9px;
+  position: relative;
+  background-color: var(--border-default-default);
+  display: none;
+}
+.flowbiteeditSolidIcon18,
+.icroundDeleteIcon18 {
+  height: 42px;
+  width: 40px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 42px;
+  z-index: 1;
+}
+.editIconItem,
+.editIconPair4 {
+  background-color: var(--border-default-default);
+}
+.editIconPair4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-3xs) var(--padding-xl) var(--padding-6xs-2)
+    var(--padding-13xl);
+  gap: var(--gap-xl);
+}
+.editIconItem {
+  height: 58.2px;
+  width: 221.9px;
+  position: relative;
+  display: none;
+}
+.flowbiteeditSolidIcon19,
+.icroundDeleteIcon19 {
+  height: 42px;
+  width: 40px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 42px;
+  z-index: 1;
+}
+.editIcon2,
+.singleEdit1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.editIcon2 {
+  flex: 1;
+  background-color: var(--border-default-default);
+  justify-content: space-between;
+  padding: var(--padding-3xs) var(--padding-xl) var(--padding-6xs-2)
+    var(--padding-13xl);
+  gap: var(--gap-xl);
+}
+.singleEdit1 {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.editIconPairChild1 {
+  height: 58.2px;
+  width: 221.9px;
+  position: relative;
+  background-color: var(--border-default-default);
+  display: none;
+}
+.flowbiteeditSolidIcon20,
+.icroundDeleteIcon20 {
+  height: 42px;
+  width: 40px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 42px;
+  z-index: 1;
+}
+.editIconPair5,
+.entryEditTools1 {
+  align-self: stretch;
+  align-items: flex-start;
+}
+.editIconPair5 {
+  background-color: var(--border-default-default);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-3xs) var(--padding-xl) var(--padding-6xs-2)
+    var(--padding-13xl);
+  gap: var(--gap-xl);
+}
+.entryEditTools1 {
+  padding: 0 0 0 var(--padding-7xs);
+  gap: var(--gap-10xs-3);
+}
+.actionButtons,
+.actionsColumn,
+.entryEditTools1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.actionButtons {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 9.9px;
+}
+.actionsColumn {
+  width: 229px;
+  align-items: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+  margin-left: -11px;
+  font-size: var(--font-size-13xl);
+  color: var(--background-default-default);
+}
+.frameWrapper,
+.tableContainerParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.tableContainerParent {
+  flex: 1;
+  flex-wrap: wrap;
+  justify-content: center;
+  row-gap: 20px;
+}
+.frameWrapper {
+  width: 1656px;
+  justify-content: flex-end;
+  padding: 0 var(--padding-9xs);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--grays-black);
+  font-family: var(--font-poppins);
+}
+.frameParent,
+.landingPage {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.frameParent {
+  width: 1717px;
+  align-items: flex-end;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: 47px;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.landingPage {
+  width: 100%;
+  height: 1568px;
+  position: relative;
+  background-color: var(--background-default-default);
+  overflow: hidden;
+  align-items: flex-start;
+  padding: 0 0 466px;
+  gap: 191px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--grays-black);
+  font-family: var(--font-poppins);
+}
+@media screen and (max-width: 1350px) {
+  .landingPage {
+    height: auto;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .landingPage {
+    gap: 95px;
+  }
+}
+@media screen and (max-width: 800px) {
+  .designation,
+  .id,
+  .location,
+  .name {
+    font-size: var(--font-size-7xl);
+  }
+  .designation,
+  .location {
+    line-height: 34px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .avinashKumar,
+  .avinashKumar1,
+  .avinashKumar2,
+  .avinashKumar3,
+  .avinashKumar4,
+  .avinashKumar5,
+  .avinashKumar6,
+  .avinashKumar7,
+  .developer,
+  .developer1,
+  .developer2,
+  .developer3,
+  .developer4,
+  .developer5,
+  .div,
+  .div1,
+  .div10,
+  .div11,
+  .div12,
+  .div13,
+  .div14,
+  .div15,
+  .div16,
+  .div17,
+  .div18,
+  .div19,
+  .div2,
+  .div20,
+  .div21,
+  .div22,
+  .div23,
+  .div24,
+  .div25,
+  .div26,
+  .div27,
+  .div28,
+  .div29,
+  .div3,
+  .div30,
+  .div4,
+  .div5,
+  .div6,
+  .div7,
+  .div8,
+  .div9,
+  .empty,
+  .filter,
+  .hyderabad,
+  .hyderabad1,
+  .hyderabad2,
+  .hyderabad3,
+  .hyderabad4,
+  .hyderabad5,
+  .id,
+  .name,
+  .newJoin,
+  .newJoin1,
+  .newJoin2,
+  .newJoin3,
+  .newJoin4,
+  .newJoin5 {
+    font-size: var(--font-size-lgi);
+  }
+  .location {
+    line-height: 25px;
+  }
+  .div31,
+  .div32,
+  .employeeDataLabels,
+  .employeeDataLabels1,
+  .employeeDataLabels10,
+  .employeeDataLabels11,
+  .employeeDataLabels12,
+  .employeeDataLabels13,
+  .employeeDataLabels14,
+  .employeeDataLabels2,
+  .employeeDataLabels3,
+  .employeeDataLabels4,
+  .employeeDataLabels5,
+  .employeeDataLabels6,
+  .employeeDataLabels7,
+  .employeeDataLabels8,
+  .employeeDataLabels9,
+  .hyderabad6,
+  .hyderabad7,
+  .location {
+    font-size: var(--font-size-lgi);
+  }
+  .designation {
+    line-height: 25px;
+  }
+  .designation,
+  .developer6,
+  .developer7,
+  .newJoin10,
+  .newJoin11,
+  .newJoin12,
+  .newJoin13,
+  .newJoin14,
+  .newJoin15,
+  .newJoin16,
+  .newJoin17,
+  .newJoin18,
+  .newJoin19,
+  .newJoin20,
+  .newJoin6,
+  .newJoin7,
+  .newJoin8,
+  .newJoin9 {
+    font-size: var(--font-size-lgi);
+  }
+  .frameParent {
+    gap: 23px;
+  }
+  .landingPage {
+    gap: 48px;
+  }
+}

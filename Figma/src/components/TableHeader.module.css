@@ -1,0 +1,736 @@
+.riarrowDropDownLineIcon {
+  height: 40px;
+  width: 40px;
+  position: absolute;
+  margin: 0 !important;
+  top: 14px;
+  left: 281px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frameChild,
+.frameItem {
+  position: relative;
+  display: none;
+}
+.frameChild {
+  align-self: stretch;
+  height: 672px;
+  border-radius: var(--br-11xl);
+  background-color: var(--border-default-default);
+}
+.frameItem {
+  height: 77px;
+  width: 351px;
+  border-radius: var(--br-11xl) 0 0 0;
+  background-color: var(--color-royalblue);
+  max-width: 100%;
+  z-index: 1;
+}
+.editEmployeeDetails {
+  height: 54px;
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--background-default-default);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  max-width: 111%;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.riarrowDropDownLineIcon1 {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.rectangleGroup,
+.riarrowDropDownLineWrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.riarrowDropDownLineWrapper {
+  flex-direction: column;
+  padding: var(--padding-6xs) 0 0;
+  margin-left: -72px;
+}
+.rectangleGroup {
+  width: 351px;
+  border-radius: var(--br-11xl) 0 0 0;
+  background-color: var(--color-royalblue);
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-22xl) var(--padding-4xs)
+    var(--padding-base);
+  box-sizing: border-box;
+  max-width: 100%;
+  z-index: 2;
+}
+.label {
+  align-self: stretch;
+  flex: 1;
+  line-height: 140%;
+  color: var(--text-positive-on-positive-secondary);
+}
+.description,
+.label,
+.value {
+  position: relative;
+  font-size: var(--body-base-size);
+  font-family: var(--body-base);
+  text-align: left;
+}
+.description {
+  align-self: stretch;
+  width: 240px;
+  line-height: 140%;
+  color: var(--text-default-secondary);
+  display: none;
+}
+.value {
+  flex: 1;
+  line-height: 100%;
+  color: var(--text-default-default);
+  z-index: 0;
+}
+.chevronDownIcon {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.helloWorld {
+  font-weight: 600;
+}
+.helloWorld,
+.option2,
+.option3,
+.option4,
+.option5 {
+  height: 22px;
+  position: relative;
+  font-size: var(--body-base-size);
+  line-height: 140%;
+  font-family: var(--body-base);
+  color: var(--text-default-default);
+  text-align: left;
+  display: inline-block;
+  white-space: nowrap;
+}
+.options,
+.select {
+  border-radius: var(--radius-200);
+  background-color: var(--background-default-default);
+  border: 1px solid var(--border-default-default);
+  display: none;
+  justify-content: flex-start;
+  gap: var(--space-200);
+}
+.options {
+  margin: 0 !important;
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  box-shadow: var(--drop-shadow-200);
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-7xs) var(--padding-6xs);
+  z-index: 2;
+}
+.select {
+  height: 41px;
+  width: 241px;
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--space-300) var(--padding-2xs) var(--space-300) var(--space-400);
+  position: relative;
+  min-width: 240px;
+}
+.option21,
+.option31,
+.option41,
+.option51,
+.value1 {
+  position: relative;
+  font-size: var(--body-base-size);
+  line-height: 140%;
+  font-family: var(--body-base);
+  color: var(--text-default-default);
+  text-align: left;
+}
+.value1 {
+  font-weight: 600;
+}
+.option21,
+.option31,
+.option41,
+.option51 {
+  white-space: nowrap;
+}
+.options1,
+.selectField {
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--space-200);
+}
+.options1 {
+  box-shadow: var(--drop-shadow-200);
+  border-radius: var(--radius-200);
+  background-color: var(--background-default-default);
+  border: 1px solid var(--border-default-default);
+  display: none;
+  flex-direction: column;
+  padding: var(--padding-7xs) var(--padding-sm);
+}
+.selectField {
+  width: 1px;
+  height: 90px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 var(--padding-49xl);
+  box-sizing: border-box;
+  z-index: 2;
+}
+.label1 {
+  width: 240px;
+  line-height: 140%;
+  color: var(--text-default-default);
+  display: none;
+}
+.description1,
+.label1,
+.value2 {
+  position: relative;
+  font-size: var(--body-base-size);
+  font-family: var(--body-base);
+  text-align: left;
+}
+.description1 {
+  width: 240px;
+  line-height: 140%;
+  color: var(--text-default-secondary);
+  display: none;
+}
+.value2 {
+  flex: 1;
+  line-height: 100%;
+  color: var(--text-positive-on-positive-secondary);
+}
+.chevronDownIcon1 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.helloWorld1 {
+  font-weight: 600;
+}
+.helloWorld1,
+.option22,
+.option32,
+.option42,
+.option52 {
+  position: relative;
+  font-size: var(--body-base-size);
+  line-height: 140%;
+  font-family: var(--body-base);
+  color: var(--text-default-default);
+  text-align: left;
+}
+.options2,
+.select1 {
+  border-radius: var(--radius-200);
+  background-color: var(--background-default-default);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--space-200);
+}
+.options2 {
+  box-shadow: var(--drop-shadow-200);
+  border: 1px solid var(--border-default-default);
+  display: none;
+  flex-direction: column;
+  padding: var(--padding-7xs) var(--padding-6xs);
+}
+.select1 {
+  height: 41px;
+  flex: 1;
+  border: 1px solid var(--border-neutral-default);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  padding: var(--space-300) var(--padding-2xs) var(--space-300) var(--space-400);
+  min-width: 240px;
+}
+.value3 {
+  font-weight: 600;
+}
+.option23,
+.option33,
+.option43,
+.option53,
+.value3 {
+  position: relative;
+  font-size: var(--body-base-size);
+  line-height: 140%;
+  font-family: var(--body-base);
+  color: var(--text-default-default);
+  text-align: left;
+}
+.options3,
+.selectField1,
+.selectFieldParent {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.options3 {
+  box-shadow: var(--drop-shadow-200);
+  border-radius: var(--radius-200);
+  background-color: var(--background-default-default);
+  border: 1px solid var(--border-default-default);
+  display: none;
+  flex-direction: column;
+  padding: var(--padding-7xs) var(--padding-sm);
+  gap: var(--space-200);
+}
+.selectField1,
+.selectFieldParent {
+  display: flex;
+}
+.selectField1 {
+  align-self: stretch;
+  height: 40px;
+  flex-direction: row;
+  gap: var(--space-200);
+  z-index: 4;
+  margin-top: -63px;
+}
+.selectFieldParent {
+  width: 240px;
+  height: 90px;
+  flex-direction: column;
+}
+.designationIcons {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-8xs);
+  background-color: var(--background-default-default);
+  z-index: 2;
+}
+.designation {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-royalblue);
+  text-align: left;
+  z-index: 2;
+}
+.designationIcons1 {
+  align-self: stretch;
+  height: 77px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  background-color: var(--background-default-default);
+  z-index: 2;
+}
+.designationIconsParent {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs-3);
+}
+.frameInner {
+  align-self: stretch;
+  height: 77px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  background-color: var(--background-default-default);
+  z-index: 3;
+}
+.frameGroup {
+  height: 500.5px;
+  width: 351px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-41xl-5);
+  min-width: 351px;
+  max-width: 100%;
+}
+.location {
+  margin: 0;
+  width: 262px;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-royalblue);
+  white-space: pre-wrap;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  z-index: 2;
+}
+.locationIconsChild {
+  width: 355px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  max-height: 100%;
+  max-width: 100%;
+  z-index: 2;
+}
+.locationIcons {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-9xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.joiningDate {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-royalblue);
+  white-space: pre-wrap;
+  text-align: left;
+  z-index: 2;
+}
+.joiningDateWrapper {
+  width: 314px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-23xl) var(--padding-9xs-5);
+  box-sizing: border-box;
+}
+.locationIconsItem {
+  width: 355px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  max-height: 100%;
+  max-width: 100%;
+  z-index: 2;
+}
+.locationIcons1,
+.locationParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.locationParent {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-11xs-5);
+}
+.status {
+  margin: 0;
+  width: 140px;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 42px;
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-royalblue);
+  white-space: pre-wrap;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  z-index: 2;
+}
+.rectangleIcon {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -27px;
+  left: -175.5px;
+  border-radius: var(--br-xl);
+  z-index: 2;
+}
+.frameChild1,
+.vectorParent {
+  position: relative;
+  max-width: 100%;
+}
+.frameChild1 {
+  height: 77px;
+  flex: 1;
+  border-radius: var(--br-8xs);
+  overflow: hidden;
+  z-index: 3;
+}
+.vectorParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.statusParent {
+  width: 355px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-10xs);
+}
+.frameParent,
+.frameWrapper,
+.locationAndStatus,
+.statusParent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.locationAndStatus {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-sm);
+  min-width: 266px;
+  margin-left: -16px;
+}
+.frameParent,
+.frameWrapper {
+  flex-direction: row;
+}
+.frameParent {
+  flex: 1;
+  align-items: flex-end;
+  row-gap: 20px;
+}
+.frameWrapper {
+  width: 808px;
+  align-items: flex-start;
+  padding: 0 var(--padding-13xl) var(--padding-xs-5);
+  box-sizing: border-box;
+}
+.description2,
+.label2,
+.value4 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--body-base-size);
+  font-family: var(--body-base);
+  color: var(--text-disabled-default);
+  text-align: left;
+}
+.description2,
+.label2 {
+  line-height: 140%;
+  display: none;
+}
+.value4 {
+  flex: 1;
+  line-height: 100%;
+}
+.chevronDownIcon2 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 16px;
+}
+.select2,
+.selectField2 {
+  display: none;
+  justify-content: flex-start;
+  gap: var(--space-200);
+}
+.select2 {
+  align-self: stretch;
+  height: 40px;
+  border-radius: var(--radius-200);
+  background-color: var(--border-default-default);
+  flex-direction: row;
+  align-items: center;
+  padding: var(--space-300) var(--space-300) var(--space-300) var(--space-400);
+  box-sizing: border-box;
+  min-width: 240px;
+  white-space: nowrap;
+}
+.selectField2 {
+  width: 240px;
+  height: 44px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangleDiv {
+  height: 77px;
+  width: 246px;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-royalblue);
+  display: none;
+}
+.span {
+  font-weight: 600;
+  white-space: pre-wrap;
+}
+.span,
+.update1 {
+  font-family: var(--font-poppins);
+}
+.update {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  color: var(--background-default-default);
+  text-align: left;
+  z-index: 4;
+}
+.rectangleContainer {
+  width: 246px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-royalblue);
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-5xs) var(--padding-12xl)
+    var(--padding-xs);
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 3;
+}
+.frameContainer,
+.rectangleContainer,
+.rectangleParent {
+  display: flex;
+  align-items: flex-start;
+}
+.frameContainer {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-10xl) 0 var(--padding-xl);
+}
+.rectangleParent {
+  margin: 0;
+  flex: 1;
+  border-radius: var(--br-11xl);
+  background-color: var(--border-default-default);
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-10xs);
+  max-width: 100%;
+  z-index: 1;
+}
+.name {
+  margin: 0 !important;
+  width: 207px;
+  position: absolute;
+  top: 182px;
+  left: -20px;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  z-index: 2;
+}
+.name,
+.span1 {
+  white-space: pre-wrap;
+}
+.contact1 {
+  color: var(--color-royalblue);
+}
+.contactTxt {
+  width: 100%;
+}
+.contact {
+  margin: 0 !important;
+  width: 236px;
+  position: absolute;
+  bottom: 172px;
+  left: -14px;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  z-index: 2;
+  color: var(--background-default-default);
+}
+.tableHeader {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-poppins);
+}
+@media screen and (max-width: 1000px) {
+  .designation,
+  .joiningDate,
+  .location {
+    font-size: var(--font-size-7xl);
+  }
+  .status {
+    line-height: 34px;
+  }
+  .contact,
+  .name,
+  .status {
+    font-size: var(--font-size-7xl);
+  }
+}
+@media screen and (max-width: 725px) {
+  .frameGroup {
+    flex: 1;
+    min-width: 100%;
+  }
+  .locationAndStatus {
+    margin-left: 0;
+  }
+  .frameParent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .designation,
+  .editEmployeeDetails,
+  .joiningDate,
+  .location {
+    font-size: var(--font-size-lgi);
+  }
+  .status {
+    line-height: 25px;
+  }
+  .contact,
+  .name,
+  .status {
+    font-size: var(--font-size-lgi);
+  }
+}

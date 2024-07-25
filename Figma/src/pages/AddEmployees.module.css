@@ -1,0 +1,679 @@
+.headerChild {
+  height: 99px;
+  width: 1728px;
+  position: relative;
+  background-color: var(--color-yellow);
+  display: none;
+  max-width: 100%;
+}
+.employeeManagement {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  white-space: nowrap;
+  z-index: 1;
+}
+.employeeManagementWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.buttonChild {
+  height: 62px;
+  width: 265px;
+  position: relative;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-royalblue);
+  display: none;
+}
+.addEmployees1 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  white-space: pre-wrap;
+  z-index: 1;
+}
+.button,
+.buttonItem {
+  border-radius: var(--br-21xl);
+  background-color: var(--color-royalblue);
+}
+.button {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) 0 var(--padding-mid);
+  white-space: nowrap;
+  z-index: 1;
+}
+.buttonItem {
+  height: 62px;
+  width: 265px;
+  position: relative;
+  display: none;
+}
+.updateEmployees {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  white-space: pre-wrap;
+  z-index: 1;
+}
+.button1 {
+  flex: 1;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-royalblue);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) 0 var(--padding-mid);
+  white-space: nowrap;
+  z-index: 1;
+}
+.iconamoonprofileDuotone {
+  width: 60px;
+  height: 60px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.iconamoonprofileDuotoneWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-7xs);
+}
+.buttonParent {
+  width: 629px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 19.5px;
+  max-width: 100%;
+  font-size: var(--font-size-5xl);
+  color: var(--background-default-default);
+}
+.header,
+.imgIcon {
+  align-self: stretch;
+  max-width: 100%;
+}
+.header {
+  background-color: var(--color-yellow);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-lgi) var(--padding-18xl) var(--padding-sm)
+    var(--padding-61xl);
+  box-sizing: border-box;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-poppins);
+}
+.imgIcon {
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.imgWrapper {
+  height: 509px;
+  width: 643px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-61xl) 0 0;
+  box-sizing: border-box;
+  min-width: 643px;
+  max-width: 100%;
+}
+.frameChild {
+  width: 827px;
+  height: 672px;
+  border-radius: var(--br-11xl);
+  background-color: var(--border-default-default);
+  display: none;
+  z-index: 1;
+}
+.employeeDetails,
+.frameChild,
+.frameItem {
+  position: relative;
+  max-width: 100%;
+}
+.frameItem {
+  height: 77px;
+  width: 351px;
+  border-radius: var(--br-11xl) 0 0 0;
+  background-color: var(--color-royalblue);
+  display: none;
+}
+.employeeDetails {
+  flex: 1;
+  font-weight: 600;
+  display: inline-block;
+  z-index: 2;
+}
+.rectangleGroup {
+  width: 351px;
+  border-radius: var(--br-11xl) 0 0 0;
+  background-color: var(--color-royalblue);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-sm) var(--padding-4xs) 26px var(--padding-base);
+  box-sizing: border-box;
+  white-space: nowrap;
+  max-width: 100%;
+  z-index: 1;
+}
+.name,
+.nameContactFields {
+  position: relative;
+  z-index: 1;
+}
+.name {
+  margin: 0;
+  width: 207px;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+}
+.nameContactFields {
+  align-self: stretch;
+  width: 351px;
+  border-radius: var(--br-8xs);
+  background-color: var(--background-default-default);
+  max-width: 100%;
+}
+.nameContactFieldsWrapper,
+.nameFieldLabels {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.nameContactFieldsWrapper {
+  flex: 1;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.nameFieldLabels {
+  height: 132px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.designation {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  z-index: 1;
+}
+.designationWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs);
+}
+.designationField {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-8xs);
+  background-color: var(--background-default-default);
+  z-index: 1;
+}
+.designationFieldset {
+  width: 351px;
+  height: 126px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1px;
+  max-width: 100%;
+}
+.span {
+  white-space: pre-wrap;
+}
+.contact1 {
+  color: var(--color-royalblue);
+}
+.contactTxt {
+  width: 100%;
+}
+.contact,
+.frameInner {
+  position: relative;
+  z-index: 1;
+}
+.contact {
+  margin: 0;
+  width: 236px;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.frameInner {
+  align-self: stretch;
+  width: 351px;
+  border-radius: var(--br-8xs);
+  background-color: var(--background-default-default);
+  max-width: 100%;
+}
+.nameFieldLabelsInner {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.firstFieldsetRow,
+.nameFieldLabels1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.nameFieldLabels1 {
+  align-self: stretch;
+  height: 129px;
+  align-items: flex-start;
+  gap: var(--gap-10xs);
+  color: var(--background-default-default);
+}
+.firstFieldsetRow {
+  flex: 1;
+  align-items: flex-end;
+  gap: 10.5px;
+  min-width: 260px;
+}
+.location {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  white-space: pre-wrap;
+  z-index: 1;
+}
+.locationFieldset {
+  width: 262px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-6xs);
+  box-sizing: border-box;
+}
+.joiningDateField {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-8xs);
+  background-color: var(--background-default-default);
+  max-width: 100%;
+  z-index: 1;
+}
+.joiningDateLabelContainer {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-smi);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.joiningDate {
+  margin: 0;
+  width: 230px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.joiningDateFieldset,
+.joiningDateLabelContainerParent {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.joiningDateLabelContainerParent {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-10xs);
+}
+.joiningDateFieldset {
+  height: 135px;
+  flex-direction: row;
+  padding: 0 0 var(--padding-6xs) var(--padding-13xl);
+  box-sizing: border-box;
+}
+.locationJoiningFields {
+  align-self: stretch;
+  width: 355px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  background-color: var(--background-default-default);
+  max-width: 100%;
+  z-index: 1;
+}
+.locationJoiningFieldsWrapper {
+  align-self: stretch;
+  height: 84px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-6xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.status {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  white-space: pre-wrap;
+  z-index: 1;
+}
+.statusFieldset {
+  width: 230px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-26xl);
+  box-sizing: border-box;
+}
+.rectangleDiv {
+  align-self: stretch;
+  width: 355px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  background-color: var(--background-default-default);
+  max-width: 100%;
+  z-index: 1;
+}
+.secondFieldsetRowInner {
+  align-self: stretch;
+  height: 77px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.firstFieldsetRowParent,
+.secondFieldsetRow {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.secondFieldsetRow {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-10xs);
+  min-width: 260px;
+  margin-left: -3px;
+}
+.firstFieldsetRowParent {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  row-gap: 20px;
+}
+.submitButtonContainerChild {
+  height: 77px;
+  width: 351px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -8px;
+  left: -55.5px;
+  border-radius: var(--br-xl);
+  z-index: 1;
+}
+.frameChild1 {
+  height: 77px;
+  width: 246px;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-royalblue);
+  display: none;
+}
+.span1 {
+  font-weight: 600;
+  white-space: pre-wrap;
+}
+.submit {
+  flex: 1;
+  position: relative;
+  z-index: 3;
+}
+.rectangleContainer {
+  flex: 1;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-royalblue);
+  justify-content: flex-start;
+  padding: var(--padding-xs) var(--padding-4xs) 28px;
+  white-space: nowrap;
+  z-index: 2;
+}
+.rectangleContainer,
+.submitButtonContainer,
+.submitButtonContainerWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.submitButtonContainer {
+  width: 246px;
+  justify-content: flex-start;
+  position: relative;
+}
+.submitButtonContainerWrapper {
+  width: 746px;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-5xl);
+  color: var(--background-default-default);
+}
+.frameGroup {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 37px;
+  max-width: 100%;
+  margin-top: -3px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-royalblue);
+}
+.frameParent,
+.frameWrapper,
+.rectangleParent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.rectangleParent {
+  flex: 1;
+  border-radius: var(--br-11xl);
+  background-color: var(--border-default-default);
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xl) 73px 0;
+  box-sizing: border-box;
+  min-width: 538px;
+}
+.frameParent,
+.frameWrapper {
+  flex-direction: row;
+}
+.frameParent {
+  flex: 1;
+  justify-content: flex-start;
+  gap: 141px;
+}
+.frameWrapper {
+  width: 1685px;
+  justify-content: flex-end;
+  padding: 0 var(--padding-18xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--background-default-default);
+  font-family: var(--font-poppins);
+}
+.addEmployees,
+.headerParent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.headerParent {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 38px;
+  max-width: 100%;
+}
+.addEmployees {
+  width: 100%;
+  position: relative;
+  background-color: var(--background-default-default);
+  overflow: hidden;
+  align-items: flex-start;
+  gap: 45px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1350px) {
+  .imgIcon {
+    align-self: stretch;
+    width: auto;
+  }
+  .imgWrapper {
+    flex: 1;
+  }
+  .frameParent {
+    flex-wrap: wrap;
+    gap: 70px;
+  }
+}
+@media screen and (max-width: 1150px) {
+  .buttonParent {
+    display: none;
+  }
+  .header {
+    padding-left: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 800px) {
+  .imgWrapper {
+    padding-top: 52px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .contact,
+  .designation,
+  .joiningDate,
+  .location,
+  .name,
+  .status {
+    font-size: var(--font-size-7xl);
+  }
+  .secondFieldsetRow {
+    margin-left: 0;
+  }
+  .firstFieldsetRowParent {
+    flex-wrap: wrap;
+  }
+  .rectangleParent {
+    padding-bottom: 47px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .frameParent {
+    gap: 35px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .button {
+    display: none;
+  }
+  .buttonParent {
+    width: 364px;
+  }
+  .contact,
+  .designation,
+  .joiningDate,
+  .location,
+  .name,
+  .status {
+    font-size: var(--font-size-lgi);
+  }
+  .frameGroup,
+  .frameParent {
+    gap: var(--gap-lg);
+  }
+  .headerParent {
+    gap: var(--gap-lgi);
+  }
+  .addEmployees {
+    gap: 22px;
+  }
+}
